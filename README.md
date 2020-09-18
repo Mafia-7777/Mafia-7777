@@ -1,16 +1,23 @@
-### Hi there 👋
+## Woah You Bought To Theft ?
 
-<!--
-**Mafia-boss-lvl-420/Mafia-boss-lvl-420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+#### Mafia boss lvl 420#0001 <-- On The Cord
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Click These Images You Will Not Regret it
+---
+######
+<div align="center">
+  <a href="https://youtu.be/6n3pFFPSlW4">
+     <img src="https://github-readme-stats.vercel.app/api?username=Mafia-boss-lvl-420&show_icons=true&theme=vision-friendly-dark&hide=prs,stars,contribs"width="400"/>
+  </a>
+    <a href="https://youtu.be/dQw4w9WgXcQ">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafia-boss-lvl-420&theme=vision-friendly-dark&layout=compact"width="400">
+    </a>
+
+
+  
+</div>
+######
+---
+Bro Did You Click The Images?
