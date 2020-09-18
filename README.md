@@ -9,7 +9,7 @@
 ######
 <div align="center">
     <a href="https://youtu.be/6n3pFFPSlW4">
-        <img src="https://github-readme-stats.vercel.app/api?username=Mafia-boss-lvl-420&show_icons=true&theme=vision-friendly-dark&hide=prs,stars,contribs"width="440"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Mafia-boss-lvl-420&show_icons=true&theme=vision-friendly-dark&hide=prs,stars,contribs"width="438"/>
   </a>
     <a href="https://youtu.be/dQw4w9WgXcQ">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafia-boss-lvl-420&theme=vision-friendly-dark&layout=compact"width="400">
