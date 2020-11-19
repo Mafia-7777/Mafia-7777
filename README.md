@@ -8,7 +8,7 @@
 ######
 <div align="center">
     <a href="https://youtu.be/dQw4w9WgXcQ">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafia-boss-lvl-420&theme=vision-friendly-dark&layout=compact"width="300">
+        <img src="https://metrics.lecoq.io/Mafia-boss-lvl-420?base.repositories=0&languages=1&isocalendar=1&followup=1">
   </a>
 </div>
 
