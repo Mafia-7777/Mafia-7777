@@ -1,6 +1,4 @@
-## Woah You Bought To Theft ?
-
-#### Mafia#7777 <-- On The Cord
+#### Mafia#7777 <-- On Discord
 
 
 ###### Click These Images You Will Not Regret it
