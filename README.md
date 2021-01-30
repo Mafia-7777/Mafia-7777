@@ -6,7 +6,7 @@
 ######
 <div align="center">
     <a href="https://youtu.be/dQw4w9WgXcQ">
-        <img src="https://metrics.lecoq.io/Mafia-boss-lvl-420?base.repositories=0&languages=1&isocalendar=1&followup=1">
+        <img src="https://metrics.lecoq.io/Mafia-7777?base.repositories=0&languages=1&isocalendar=1&followup=1">
   </a>
 </div>
 
